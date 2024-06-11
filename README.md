@@ -1,18 +1,18 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## BELTAH-MD V2.5.0 
+## JUSTEVANS-MD V2.5.0 
    ***MADE WITH 💎***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗘𝗟𝗧𝗔𝗛+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=JUSTEVANS+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+justevans+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
+| [![https://telegra.ph/file/adc5b9db379eab3645fd1.jpg(https://github.com/justevansmd)|
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=✞BELTAH-MD+V2.5.0✞+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=✞just-MD+V2.5.0✞+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -23,7 +23,7 @@
 <a href="https://github.com/Beltahmd/beltah-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
 <a href="https://github.com/Beltahmd/beltah-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahmd/beltah-md?label=Watching&style=social"></a>
   
-## SETUP FOR 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗
+## SETUP FOR justevans 𝗠𝗗
 
 **CLICK HERE 👇 TO FORK**
 
@@ -56,15 +56,15 @@
 
  ## CONTACT DEVELOPER
 
-⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254114141192)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/beltah254) 
+⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254703267810)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/evans254) 
 
 ## CONTRIBUTIONS
 
-Contributions to BELTAH-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to justevans-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
   ## THANKS TO MY FELLOW DEV FOR;
 
-    [FRANCE KING] 
+    [justevans] 
     
 Who added commands (uptime, ping, vv, ss, repo); <br>
 
