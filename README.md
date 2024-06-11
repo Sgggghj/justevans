@@ -8,14 +8,14 @@
   </p>
 <div align="center">
 
-| [![https://telegra.ph/file/adc5b9db379eab3645fd1.jpg(https://github.com/justevansmd)|
+| [![justevans KE](https://telegra.ph/file/adc5b9db379eab3645fd1.jpg)](https://github.com/Beltahmd)|
 |----|
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=✞just-MD+V2.5.0✞+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-just TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
