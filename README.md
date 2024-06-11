@@ -50,13 +50,13 @@
 
  ## WATCH TUTORIAL AND SUBSCRIBE
 
-**⏣WATCH FULL VIDEO ON HOW TO DEPLOY BELTAH-MD BY CLICKING  [**HERE**](https://www.youtube.com/@Beltahtech2024)**
+**⏣WATCH FULL VIDEO ON HOW TO DEPLOY JUSTEVANS-MD BY CLICKING  [**HERE**](https://www.youtube.com/@justtech2024)**
 
  
 
  ## CONTACT DEVELOPER
 
-⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254703267810)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/evans254) 
+⏣REACH JUSTEVANs-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254703267810)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/evans254703267810) 
 
 ## CONTRIBUTIONS
 
@@ -68,16 +68,16 @@ Contributions to justevans-MD are welcome! If you have ideas for new features, i
     
 Who added commands (uptime, ping, vv, ss, repo); <br>
 
-    [GIFTED TECH]
+    [justevans TECH]
     
 Who helped in commands addition 
 (ai, dalle, gpt4, gpt, starting up message for bot, updated index. Js) ;
 
 ## License
 
-The WhatsApp Bot 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot *JUSTEVANS* 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-🌟 THANK YOU FOR CHOOSING BELTAH-MD 🌟
+🌟 THANK YOU FOR CHOOSING *JUSTEVANS*-MD 🌟
 
 ## DEVELOPERS :
 
