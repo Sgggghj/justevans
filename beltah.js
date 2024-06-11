@@ -804,7 +804,7 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Beltah is connecting...");
+                console.log("ℹ️ Just is connecting...");
             }
             else if (connection === 'open') {
                 console.log("✅ Beltah Connected to WhatsApp! ☺️");
@@ -845,9 +845,9 @@ zk.ev.on('group-participants.update', async (group) => {
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `  ☉ 𝗕𝗘𝗟𝗧𝗔𝗛-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
+                let cmsg = `  ☉ Just-𝗠𝗗 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 ☉
 ╭──────────────⁠☉
-  ❒⁠⁠⁠⁠𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : 𝙱𝚎𝚕𝚝𝚊𝚑 𝚃𝚎𝚌𝚑
+  ❒⁠⁠⁠⁠𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : Evans 𝚃𝚎𝚌𝚑
   ❒⁠⁠⁠⁠𝗣𝗿𝗲𝗳𝗶𝘅    : [ ${prefixe} ]  
   ❒⁠⁠⁠⁠𝗠𝗼𝗱𝗲     : ${md}
   ❒⁠⁠⁠⁠𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀: ${evt.cm.length}︎
@@ -855,9 +855,9 @@ zk.ev.on('group-participants.update', async (group) => {
 
 ╭──────────────⁠☉ 
   ☉𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗟𝗶𝗻𝗸: 
- [youtube.com/@Beltahtech2024] 
+ [youtube.com/@justtech2024] 
 
-  ★𝗕𝗲𝗹𝘁𝗮𝗵-𝗧𝗲𝗰𝗵-𝗧𝗲𝗮𝗺
+  ★Evans-𝗧𝗲𝗰𝗵-𝗧𝗲𝗮𝗺
 ╰──────────────⏣`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
