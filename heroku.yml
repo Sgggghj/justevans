@@ -1,5 +1,5 @@
-build:
+nobuild:
   docker:
       worker: Dockerfile
 run:
-   worker:   npm run beltah
+   worker:   npm run justevans 
