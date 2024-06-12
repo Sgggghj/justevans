@@ -81,8 +81,8 @@ The WhatsApp Bot *JUSTEVANS* 𝗠𝗗 is released under the [JUST License](https
 
 ## DEVELOPERS :
 
-- [**BELTAH TECH**](https://github.com/Beltahmd)
-- [**FRANCE KING**](https://github.com/franceking1)
-- [**GIFTED TECH**](https://github.com/mouricedevs)
+- [**JUSTEVANS TECH**](https://github.com/Beltahmd)
+- [**MIKE KING**](https://github.com/franceking1)
+- [**MARY TECH**](https://github.com/mouricedevs)
 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
+★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 justevans -𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©2024
