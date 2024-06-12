@@ -27,7 +27,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="150"></a>
+<a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20justevansmd%20Repo-blue" alt="FORK JUSTEVANS-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID: 
 
@@ -39,7 +39,7 @@
 
 <a href="https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
-⏣[**VISIT**](https://beltah-pairing-code-b11a94d6c0f0.herokuapp.com/) BELTAH TECH SITES; <br>
+⏣[**VISIT**](https://justevans-pairing-code-b11a94d6c0f0.herokuapp.com/) JUSTEVANS TECH SITES; <br>
 
 
 ## 4. DEPLOY NOW ON HEROKU 
