@@ -75,7 +75,7 @@ Who helped in commands addition
 
 ## License
 
-The WhatsApp Bot *JUSTEVANS* 𝗠𝗗 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot *JUSTEVANS* 𝗠𝗗 is released under the [JUST License](https://opensource.org/licenses/MIT).
 
 🌟 THANK YOU FOR CHOOSING *JUSTEVANS*-MD 🌟
 
